@@ -1,6 +1,6 @@
 output: keygen.c
-        gcc -w keygen.c -o pwC
+		gcc -w keygen.c -o pwC
 
 clean:
-        rm *.o
-        chmod u+x pwC
+		rm *.o
+		chmod u+x pwC
