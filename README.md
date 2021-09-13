@@ -26,14 +26,12 @@ Options:
        --human, -H    produces keys using only letters and numbers
        --help, -h     print this help message and exit
 ```
-
 <br>
 Print a single key, 16 chars long (default):
 ```bash
 user@linux:~/pwC# pwC
 etg!tSwc#lG42eaG
 ```
-
 <br>
 Print five keys, 12 chars long:
 ```bash
@@ -44,7 +42,6 @@ K9oAMI.iDg&s
 $Fsw7jwa+31A
 ptr#AjnkR#TX
 ```
-
 <br>
 Print 3 keys, 22 chars long, human readable (no special chars)
 ```bash
