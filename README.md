@@ -27,11 +27,13 @@ Options:
        --help, -h     print this help message and exit
 ```
 <br>
+
 Print a single key, 16 chars long (default):
 ```bash
 user@linux:~/pwC# pwC
 etg!tSwc#lG42eaG
 ```
+
 <br>
 Print five keys, 12 chars long:
 ```bash
