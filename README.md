@@ -10,7 +10,7 @@
 ## Installation
 
 ```bash
-git clone https://github.com/synth3sis/pwC
+git clone https://github.com/synth3sis/pwC.git
 cd pwC
 make
 chmod +x pwC
