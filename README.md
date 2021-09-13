@@ -26,8 +26,8 @@ Options:
        --human, -H    produces keys using only letters and numbers
        --help, -h     print this help message and exit
 ```
-<br>
 
+<br>
 Print a single key, 16 chars long (default):
 ```bash
 user@linux:~/pwC# pwC
