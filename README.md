@@ -1,10 +1,10 @@
 # pwC
 
-pwC is a very simple key/password generator written in C.
+**pwC** is a very simple key/password generator written in C.
 <br>
-The goal? Provide a super fast and lightweight password generator embedded in a linux system.
+**The goal?** Provide a super fast and lightweight password generator embedded in a linux system.
 <br>
-How? A prepared set of dictionaries and a bit of randomness.
+**How?** A prepared set of dictionaries and a bit of randomness.
 <br>
 
 ## Installation
