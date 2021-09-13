@@ -44,6 +44,7 @@ K9oAMI.iDg&s
 $Fsw7jwa+31A
 ptr#AjnkR#TX
 ```
+
 <br>
 Print 3 keys, 22 chars long, human readable (no special chars)
 ```bash
