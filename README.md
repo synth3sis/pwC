@@ -13,8 +13,7 @@
 git clone https://github.com/synth3sis/pwC.git
 cd pwC
 make
-chmod +x pwC
-cp pwC /usr/local/sbin/
+cp bin/pwC /usr/local/sbin/
 ```
 
 <br>
