@@ -21,7 +21,7 @@ cp bin/pwC /usr/local/sbin/
 ## Examples
 Print help:
 ```bash
-user@linux:~/pwC# pwC -h
+user@linux:~# pwC -h
 Usage:
        ./pwC [length] [num of key]
 
@@ -35,7 +35,7 @@ Options:
 Print a single key, 16 chars long (default):
 
 ```bash
-user@linux:~/pwC# pwC
+user@linux:~# pwC
 etg!tSwc#lG42eaG
 ```
 
@@ -44,7 +44,7 @@ etg!tSwc#lG42eaG
 Print five keys, 12 chars long:
 
 ```bash
-user@linux:~/pwC# pwC 12 5
+user@linux:~# pwC 12 5
 ggXet5$9wC?E
 68B$ltESIhu?
 K9oAMI.iDg&s
@@ -56,7 +56,7 @@ ptr#AjnkR#TX
 Print 3 keys, 22 chars long, human readable (no special chars)
 
 ```bash
-user@linux:~/pwC# pwC 22 3 -H
+user@linux:~# pwC 22 3 -H
 jxMvWKlYHmPj7r6revO1Bh
 Jv5jWsDdMhY2gyBs5AdKxc
 ZAICVT5PsWVE83lBocXL8q
